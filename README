@@ -3,8 +3,6 @@
 	Contact: lizoyu1@gmail.com
 --------------------------------
 
-It's not finished.
-
 This is the Bayes classifier for Gaussian pattern classes, extended from a part of the project 'Gait 
 recognization using Kinect' on class Human Motion Analysis. Details of the function is in the .m file.
 
